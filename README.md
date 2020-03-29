@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Nordic Barista Cup Demo
+
+This project was bootstrapped with **Create React App.**
+
+This small demo is an imitation of Nordic Barista Cup with stripe with React.js using a serverless function. The project also shows how a number of concepts work in React, using centralized state management with Context API and Hooks for product details. Of note, using computed properties, .sync, CSS,Bootstrap,
+the project has
+implemented search functionality for news title with highlighted
+having carousel banner that runs random photos
+implemented pagination
+* -- deployed at [https://nordicbarista.netlify.com/](https://nordicbarista.netlify.com/).*
+
+---
 
 ## Available Scripts
 
@@ -6,23 +17,25 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
+<br/>
+
+The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
+Launches the test runner in the interactive watch mode.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
+Builds the app for production to the `build` folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
